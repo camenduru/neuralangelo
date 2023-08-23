@@ -13,7 +13,7 @@ logging_iter: 9999999999999  # disable the printing logger
 max_iter: 500000
 
 wandb_scalar_iter: 100
-wandb_image_iter: 1000
+wandb_image_iter: 10000
 validation_iter: 50000
 speed_benchmark: False
 
